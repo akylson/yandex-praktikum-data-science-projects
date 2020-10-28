@@ -8,10 +8,10 @@ Presented in the form of iPython Notebooks and readme markdown files. <br>
 For a more visually pleasant experience for browsing the portfolio, check out <a href="https://akylson.com">akylson.com</a><br>
 <br>
 </p><br>
-
+<sub>
 <table width=100% valign=top >
   <tr>
-    <td><sub>Project</sub></td>
+    <td>Project</td>
     <td>Description</td>
     <td>Used libraries</td>
   </tr>
@@ -85,6 +85,6 @@ The model helped to optimize production in order not to launch a plant with unpr
     <td>Python, Pandas, Numpy</td>
   </tr>
 </table>
-  
+  </sub>
 <br>
 <i> Please don't plagiarize any of my projects — it won't help you in the long run!<i>
