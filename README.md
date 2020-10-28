@@ -86,13 +86,13 @@ For a more visually pleasant experience for browsing the portfolio, check out <a
   </tr>
    <tr>
   <td><a href="#">Research-on-the-reliability-of-borrowers</a></td>
-    <td>Заказчик — кредитный отдел банка. Нужно разобраться, влияет ли семейное положение и количество детей клиента на факт погашения кредита в срок. Входные данные от банка — статистика о платёжеспособности клиентов.
-Результаты исследования будут учтены при построении модели кредитного скоринга — специальной системы, которая оценивает способность потенциального заёмщика вернуть кредит банку.</td>
-    <td>Exploratory data analysis</td>
+    <td>Based on statistics on the paying capacity of clients. I researched is the marital status and the number of the client's children affect the fact of the loan repayment on time</td>
+    <td>preprocessing data, Python, Pandas, PyMystem3,Lemmatization, SciPy, Matplotlib, Seaborn, SciKitLearn,numpy
+</td>
   </tr>
   <tr>
   <td><a href="#">Yandex-Music</a></td>
     <td>Comparison of musical tastes of Moscow and St. Petersburg. How different is the music that plays on the way to work on Monday morning from the one that plays on Wednesday or at the end of the work week.</td>
-    <td>Exploratory Data Analysis</td>
+    <td>Python, Pandas, Numpy</td>
   </tr>
 </table>
