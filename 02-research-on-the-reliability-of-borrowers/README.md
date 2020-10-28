@@ -1,6 +1,6 @@
 # Research on the reliability of browsers
 
-<center><img src="https://upload.wikimedia.org/wikipedia/commons/5/5a/Western_Military_District_buildings_Saint_Petersburg_arch.jpg"></center>
+<center><img src="https://www.airpano.com/files/360video/video-petersburg-russia-2/images/image4.jpg"></center>
 
 #### Задача: Используя данные сервиса Яндекс.Недвижимость, определить рыночную стоимость объектов недвижимости и типичные параметры квартир
 
