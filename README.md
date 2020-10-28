@@ -46,11 +46,8 @@ The model helped to optimize production in order not to launch a plant with unpr
   </tr>
   <tr>
     <td><a href="#">Bank-Churn-prediction</a></td>
-    <td>Из «Бета-Банка» стали уходить клиенты. Каждый месяц. Немного, но заметно. Банковские маркетологи посчитали: сохранять текущих клиентов дешевле, чем привлекать новых.
-Нужно спрогнозировать, уйдёт клиент из банка в ближайшее время или нет. Вам предоставлены исторические данные о поведении клиентов и расторжении договоров с банком.
-Постройте модель с предельно большим значением F1-меры. Чтобы сдать проект успешно, нужно довести метрику до 0.59. Проверьте F1-меру на тестовой выборке самостоятельно.
-Дополнительно измеряйте AUC-ROC, сравнивайте её значение с F1-мерой.</td>
-    <td>Machine Learning</td>
+    <td>Analysis of the outflow of clients from the bank to select a strategy (retaining old clients or attracting new clients)</td>
+    <td>Machine Learning, Pandas, Matplotlib, Seaborn, Numpy, Sklearn, Math</td>
   </tr>
   <tr>
     <td><a href="#">Mobile-Operator-machine learning</a></td>
