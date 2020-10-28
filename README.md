@@ -92,7 +92,7 @@ For a more visually pleasant experience for browsing the portfolio, check out <a
   </tr>
   <tr>
   <td><a href="#">Yandex-Music</a></td>
-    <td>Comparison of the tastes of music of the city of Moscow and St. Petersburg. How different is the music that plays on the way to work on Monday morning from the one that plays on Wednesday or at the end of the work week.</td>
+    <td>Comparison of musical tastes of Moscow and St. Petersburg. How different is the music that plays on the way to work on Monday morning from the one that plays on Wednesday or at the end of the work week.</td>
     <td>Exploratory Data Analysis</td>
   </tr>
 </table>
