@@ -16,7 +16,7 @@ For a more visually pleasant experience for browsing the portfolio, check out <a
     <td><a href="#">Classifying-comments</a></td>
     <td>Speed up the moderation of comments in the community by automating their toxicity assessment.
 Trained the model to classify comments as positive and negative.</td>
-    <td><font size=5>Pandas, Python, Machine Learning, NLTK, LightGBM, Sklearn</font></td>
+    <td>Pandas, Python, Machine Learning, NLTK, LightGBM, Sklearn</td>
   </tr>
   <tr>
     <td><a href="#">Taxi-timeline</a></td>
