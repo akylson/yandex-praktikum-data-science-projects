@@ -50,19 +50,17 @@ The model helped to optimize production in order not to launch a plant with unpr
     <td>Machine Learning, Pandas, Matplotlib, Seaborn, Numpy, Sklearn, Math</td>
   </tr>
   <tr>
-    <td><a href="#">Mobile-Operator-machine learning</a></td>
+    <td><a href="#">Determination-of-a-profitable-plan-for-a-telecom-company</a></td>
     <td>В вашем распоряжении данные о поведении клиентов, которые уже перешли на эти тарифы (из проекта курса «Статистический анализ данных»). Нужно построить модель для задачи классификации, которая выберет подходящий тариф. Предобработка данных не понадобится — вы её уже сделали.
 
 Постройте модель с максимально большим значением accuracy. Чтобы сдать проект успешно, нужно довести долю правильных ответов по крайней мере до 0.75. Проверьте accuracy на тестовой выборке самостоятельно.</td>
     <td>Machine Learning</td>
   </tr>
   <tr>
-  <td><a href="#">Games-Analysis</a></td>
-    <td>Интернет-магазин «Стримчик», который продаёт по всему миру компьютерные игры. Из открытых источников доступны исторические данные о продажах игр, оценки пользователей и экспертов, жанры и платформы (например, Xbox или PlayStation). Нам нужно выявить определяющие успешность игры закономерности. Это позволит сделать ставку на потенциально популярный продукт и спланировать рекламные кампании.
-
-Перед нами данные до 2016 года. Представим, что сейчас декабрь 2016 г., и мы планируем кампанию на 2017-й. Нужно отработать принцип работы с данными. Не важно, прогнозируем ли мы продажи на 2017 год по данным 2016-го или же 2027-й — по данным 2026 года.
+  <td><a href="#">Patterns-that-determine-the-success-of-game-platforms.</a></td>
+    <td>Using historical data on sales of computer games, user and expert ratings, genres and platforms. I identified patterns that determine the success of a game
 </td>
-    <td>Pandas</td>
+    <td>Python, Pandas, numpy, Matplotlib, Preprocessing data, Exploratory Data Analysis, Statistics, statistical hypothesis testing, Seaborn, SciPy</td>
   </tr>
   <tr>
   <td><a href="#">Determination-of-promising-tariff-for-Megaline</a></td>
