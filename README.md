@@ -1,8 +1,4 @@
-<style>
-  .markdown-body table td {
-    font-size: 12px !important;
-  }
-</style>
+
 
 <center><h1>Yandex.Praktikum Data Science Projects</h1></center>
 <a href="https://praktikum.yandex.ru/"><img width=100% src="https://akylson.com/wp-content/uploads/2020/10/69689792_116148766429470_3425023190613622784_o.png"></a><br><br>
@@ -15,7 +11,7 @@ For a more visually pleasant experience for browsing the portfolio, check out <a
 
 <table width=100% valign=top >
   <tr>
-    <td>Project</td>
+    <td><sub>Project</sub></td>
     <td>Description</td>
     <td>Used libraries</td>
   </tr>
