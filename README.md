@@ -2,7 +2,7 @@
 <a href="#"><img width=100% src="https://akylson.com/wp-content/uploads/2020/10/1_w2-63DP5JP6x65e7yvD8GQ-2.png"></a><br><br>
 <p align=center>
 Repository containing portfolio of data science projects completed by me during the training courses at Yandex.Praktikum<br>
-Presented in the form of iPython Notebooks and readme markdown files .
+Presented in the form of iPython Notebooks and readme markdown files. <br>
 For a more visually pleasant experience for browsing the portfolio, check out <a href="https://akylson.com">akylson.com</a><br>
 <br>
 </p><br>
