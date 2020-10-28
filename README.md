@@ -16,8 +16,8 @@ For a more visually pleasant experience for browsing the portfolio, check out <a
     <td>Used libraries</td>
   </tr>
   <tr>
-    <td><a href="#">Classifying-comments</a></td>
-    <td>Speeded up the moderation of comments by automating their toxicity assessment. Trained the model to classify comments as toxic and non-toxic.</td>
+    <td><a href="#"><sub>Classifying-comments</sub></a></td>
+    <td><sub>Speeded up the moderation of comments by automating their toxicity assessment. Trained the model to classify comments as toxic and non-toxic.</sub></td>
     <td><sub>Pandas, Python, Machine Learning, NLTK, LightGBM, Sklearn</sub></td>
   </tr>
   <tr>
