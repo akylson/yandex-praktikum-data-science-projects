@@ -34,11 +34,10 @@ Trained the model to classify comments as positive and negative.</td>
     <td>Pandas, Seaborn, Numpy, Sklearn, Machine Learning</td>
   </tr>
   <tr>
-    <td><a href="#">Gold-Prediction</a></td>
-    <td>Подготовьте прототип модели машинного обучения для «Цифры». Компания разрабатывает решения для эффективной работы промышленных предприятий.
-Модель должна предсказать коэффициент восстановления золота из золотосодержащей руды. В вашем распоряжении данные с параметрами добычи и очистки.
-Модель поможет оптимизировать производство, чтобы не запускать предприятие с убыточными характеристиками.</td>
-    <td>Pandas</td>
+    <td><a href="#">Model-prototype-for-a-metalworking-enterprise</a></td>
+    <td>Developed a model predicting the recovery rate of gold from gold ore.
+The model helped to optimize production in order not to launch a plant with unprofitable characteristics.</td>
+    <td>Pandas, Sklearn, Numpy, Seaborn, Matplotlib, Math, Machine Learning</td>
   </tr>
   <tr>
     <td><a href="#">GeoData-Prediction</a></td>
