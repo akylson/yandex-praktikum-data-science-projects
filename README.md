@@ -1,4 +1,4 @@
-<center><h1>Yandex Data Science Projects</h1></center>
+<center><h1>Yandex.Praktikum Data Science Projects</h1></center>
 <a href="#"><img width=100% src="https://akylson.com/wp-content/uploads/2020/10/1_w2-63DP5JP6x65e7yvD8GQ-2.png"></a><br><br>
 <p align=center>
 Repository containing portfolio of data science projects completed by me during the training courses at Yandex.Praktikum<br>
@@ -92,7 +92,7 @@ For a more visually pleasant experience for browsing the portfolio, check out <a
   </tr>
   <tr>
   <td><a href="#">Yandex-Music</a></td>
-    <td>Как музыка, которая звучит по дороге на работу в понедельник утром, отличается от той, что играет в среду или в конце рабочей недели? Имеются Данные для Москвы и Петербурга. Сравним, что и в каком режиме слушают их жители.</td>
+    <td>Comparison of the tastes of music of the city of Moscow and St. Petersburg. How different is the music that plays on the way to work on Monday morning from the one that plays on Wednesday or at the end of the work week.</td>
     <td>Exploratory Data Analysis</td>
   </tr>
 </table>
