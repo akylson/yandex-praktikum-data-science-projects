@@ -1,10 +1,10 @@
 <center><h1>Yandex Data Science Projects</h1></center>
 <a href="#"><img width=100% src="https://akylson.com/wp-content/uploads/2020/10/1_w2-63DP5JP6x65e7yvD8GQ-2.png"></a><br><br>
-<p align=center>These projects were completed during the training courses at Yandex.Practicum<br>
-Each Project has a readme.md and ipynb(Jupyter Notebook) files. <br>
-Please do not hesitate to contact me if you have any questions regarding the projects.<br>
-  <b>Email:</b> <a href="mailto:kanat@akylson.com">kanat@akylson.com</a><br>
-<b>Web : </b> https://akylson.com<br>
+<p align=center>
+Repository containing portfolio of data science projects completed by me during the training courses at Yandex.Praktikum<br>
+Presented in the form of iPython Notebooks and readme markdown files .
+For a more visually pleasant experience for browsing the portfolio, check out <a href="https://akylson.com">akylson.com</a><br>
+<br>
 </p><br>
 <table width=100% valign=top >
   <tr>
