@@ -29,10 +29,9 @@ Trained the model to classify comments as positive and negative.</td>
     <td>Pandas, Sklearn, Numpy, LightGBM, Machine Learning, CatBoost, XGBoost</td>
   </tr>
   <tr>
-    <td><a href="#">Insurance-company</a></td>
-    <td>Вам нужно защитить данные клиентов страховой компании «Хоть потоп». Разработайте такой метод преобразования данных, чтобы по ним было сложно восстановить персональную информацию. Обоснуйте корректность его работы.
-Нужно защитить данные, чтобы при преобразовании качество моделей машинного обучения не ухудшилось. Подбирать наилучшую модель не требуется.</td>
-    <td>Pandas</td>
+    <td><a href="#">Algorithm-for-data-protection</a></td>
+    <td>Using the data conversion method, the personal information of the clients of the insurance company was protected (encrypted).</td>
+    <td>Pandas, Seaborn, Numpy, Sklearn, Machine Learning</td>
   </tr>
   <tr>
     <td><a href="#">Gold-Prediction</a></td>
