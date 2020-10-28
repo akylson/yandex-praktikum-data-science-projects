@@ -2,6 +2,7 @@
 
 <center><img src="https://assets.website-files.com/5cfdaa5d690807795026e9f3/5f0ec0759b6fa439eb7f40d4_y69TbP8VrJr8z12jaCnbrN_2PvEqp7Xl3cfRNqZaYDULUg7NHOHVOgumjSpzUSoIXmUcqXQszMqBo_iDMQDp-yjFCLos916GQKRfwAMyW17YpQ06FZ3rQdnjYIg_Z_zDrJtTFU4E.png"></center>
 <br><br>
+
 #### Задача: 
 На основе статистики о платёжеспособности клиентов исследовать влияет ли семейное положение и количество детей клиента на факт возврата кредита в срок
 
