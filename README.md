@@ -6,6 +6,7 @@ Presented in the form of iPython Notebooks and readme markdown files. <br>
 For a more visually pleasant experience for browsing the portfolio, check out <a href="https://akylson.com">akylson.com</a><br>
 <br>
 </p><br>
+<font size="5">
 <table width=100% valign=top >
   <tr>
     <td>Project</td>
@@ -14,13 +15,12 @@ For a more visually pleasant experience for browsing the portfolio, check out <a
   </tr>
   <tr>
     <td><a href="#">Classifying-comments</a></td>
-    <td>Speeded up the moderation of comments by automating their toxicity assessment.
-Trained the model to classify comments as positive and negative.</td>
+    <td>Speeded up the moderation of comments by automating their toxicity assessment. Trained the model to classify comments as toxic and non-toxic.</td>
     <td>Pandas, Python, Machine Learning, NLTK, LightGBM, Sklearn</td>
   </tr>
   <tr>
     <td><a href="#">Predicting-taxi-trips</a></td>
-    <td>Trained a model to predict the number of taxi trips for the next hour.</td>
+    <td>Trained a Machine Learning model to predict the number of taxi trips for the next hour.</td>
     <td>Pandas, sklearn, numpy, LightGBM, Matplotlib, StatsModels, CatBoost, Machine Learning</td>
   </tr>
   <tr>
@@ -29,12 +29,12 @@ Trained the model to classify comments as positive and negative.</td>
     <td>Pandas, Sklearn, Numpy, LightGBM, Machine Learning, CatBoost, XGBoost</td>
   </tr>
   <tr>
-    <td><a href="#">Algorithm-for-data-protection</a></td>
-    <td>Using the data conversion method, the personal information of the clients of the insurance company was protected (encrypted).</td>
+    <td><a href="#">The-Algorithm-for-data-protection</a></td>
+    <td>The personal information of the clients of the insurance company was protected (encrypted), using the data conversion method..</td>
     <td>Pandas, Seaborn, Numpy, Sklearn, Machine Learning</td>
   </tr>
   <tr>
-    <td><a href="#">Model-prototype-for-a-metalworking-enterprise</a></td>
+    <td><a href="#">Machine-Learning-Model-for-a-metalworking-enterprise</a></td>
     <td>Developed a model predicting the recovery rate of gold from gold ore.
 The model helped to optimize production in order not to launch a plant with unprofitable characteristics.</td>
     <td>Pandas, Sklearn, Numpy, Seaborn, Matplotlib, Math, Machine Learning</td>
@@ -83,5 +83,6 @@ The model helped to optimize production in order not to launch a plant with unpr
     <td>Python, Pandas, Numpy</td>
   </tr>
 </table>
+  </font>
 <br>
 <i> Please don't plagiarize any of my projects — it won't help you in the long run!<i>
