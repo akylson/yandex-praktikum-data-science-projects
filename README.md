@@ -40,9 +40,9 @@ The model helped to optimize production in order not to launch a plant with unpr
     <td>Pandas, Sklearn, Numpy, Seaborn, Matplotlib, Math, Machine Learning</td>
   </tr>
   <tr>
-    <td><a href="#">GeoData-Prediction</a></td>
-    <td>Вам предоставлены пробы нефти в трёх регионах: в каждом 10 000 месторождений, где измерили качество нефти и объём её запасов. Постройте модель машинного обучения, которая поможет определить регион, где добыча принесёт наибольшую прибыль. Проанализируйте возможную прибыль и риски техникой Bootstrap.</td>
-    <td>Pandas</td>
+    <td><a href="#">Development-of-new-oil-fields</a></td>
+    <td>Decided in which region to extract oil. Built a machine learning model that helped determine the region where mining will bring the most profit with the least risk of loss.</td>
+    <td>Pandas, Sklearn, Math, Numpy, Seaborn, Matplotlib, SciPy, Bootstrap, Machine Learning</td>
   </tr>
   <tr>
     <td><a href="#">Bank-Churn-prediction</a></td>
