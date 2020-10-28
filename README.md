@@ -24,9 +24,9 @@ Trained the model to classify comments as positive and negative.</td>
     <td>Pandas, sklearn, numpy, LightGBM, Matplotlib, StatsModels, CatBoost, Machine Learning</td>
   </tr>
   <tr>
-    <td><a href="#">Auto-price-prediction</a></td>
-    <td>Сервис по продаже автомобилей с пробегом «Не бит, не крашен» разрабатывает приложение для привлечения новых клиентов. В нём можно быстро узнать рыночную стоимость своего автомобиля. В вашем распоряжении исторические данные: технические характеристики, комплектации и цены автомобилей. Вам нужно построить модель для определения стоимости.</td>
-    <td>Pandas</td>
+    <td><a href="#">Car-price-prediction</a></td>
+    <td>Trained the Machine Learning model to determine the market value of the car.</td>
+    <td>Pandas, Sklearn, Numpy, LightGBM, Machine Learning, CatBoost, XGBoost</td>
   </tr>
   <tr>
     <td><a href="#">Insurance-company</a></td>
