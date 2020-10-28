@@ -83,3 +83,5 @@ The model helped to optimize production in order not to launch a plant with unpr
     <td>Python, Pandas, Numpy</td>
   </tr>
 </table>
+<br>
+<i> Please don't plagiarize any of my projects — it won't help you in the long run!<i>
