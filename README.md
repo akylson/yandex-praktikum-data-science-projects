@@ -1,6 +1,6 @@
 # Yandex Praktikum Data Science Projects
 
-These projects were completed during the training at Yandex.Practicum
+These projects were completed during the training courses at Yandex.Practicum
 
 <table width=100% valign=top >
   <tr>
