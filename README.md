@@ -1,7 +1,8 @@
+<img src="https://akylson.com/wp-content/uploads/2020/10/logo_756.png"><br><br>
 # Yandex Praktikum Data Science Projects
 
 These projects were completed during the training courses at Yandex.Practicum
-<img src="https://akylson.com/wp-content/uploads/2020/10/logo_756.png">
+
 <table width=100% valign=top >
   <tr>
     <td>Project</td>
