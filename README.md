@@ -63,10 +63,10 @@ The model helped to optimize production in order not to launch a plant with unpr
     <td>Python, Pandas, numpy, Matplotlib, Preprocessing data, Exploratory Data Analysis, Statistics, statistical hypothesis testing, Seaborn, SciPy</td>
   </tr>
   <tr>
-  <td><a href="#">Determination-of-promising-tariff-for-Megaline</a></td>
-    <td>«Мегалайн» — федеральный оператор сотовой связи.
-Клиентам предлагают два тарифных плана: «Смарт» и «Ультра». Чтобы скорректировать рекламный бюджет, коммерческий департамент хочет понять, какой тариф приносит больше денег. Проведем предварительный анализ тарифов на небольшой выборке клиентов. В нашем распоряжении данные 500 пользователей «Мегалайна»: кто они, откуда, каким тарифом пользуются, сколько звонков и сообщений каждый отправил за 2018 год. Проанализируем поведение клиентов и сделаем вывод - какой тариф лучше</td>
-    <td>Pandas, Numpy, SciPy, Matplotlib, Math</td>
+  <td><a href="#">Determination-of-a-profitable-plan-for-a-telecom-company</a></td>
+    <td>Based on the data of the mobile operators customers, i analyzed customer behavior and found the optimal plan for the company.
+</td>
+    <td>Python, Pandas, Matplotlib, numpy, SciPy, Statistics, Statistical Hypothesis testing, Math, Seaborn</td>
   </tr>
      <tr>
   <td><a href="#">Real-estate-market-analysis</a></td>
