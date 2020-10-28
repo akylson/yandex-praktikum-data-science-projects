@@ -14,15 +14,14 @@ For a more visually pleasant experience for browsing the portfolio, check out <a
   </tr>
   <tr>
     <td><a href="#">Classifying-comments</a></td>
-    <td>Speed up the moderation of comments in the community by automating their toxicity assessment.
+    <td>Speeded up the moderation of comments by automating their toxicity assessment.
 Trained the model to classify comments as positive and negative.</td>
     <td>Pandas, Python, Machine Learning, NLTK, LightGBM, Sklearn</td>
   </tr>
   <tr>
-    <td><a href="#">Taxi-timeline</a></td>
-    <td>Компания «Чётенькое такси» собрала исторические данные о заказах такси в аэропортах. Чтобы привлекать больше водителей в период пиковой нагрузки, нужно спрогнозировать количество заказов такси на следующий час. Постройте модель для такого предсказания.
-Значение метрики RMSE на тестовой выборке должно быть не больше 48.</td>
-    <td>Pandas</td>
+    <td><a href="#">Predicting-taxi-trips</a></td>
+    <td>Trained a model to predict the number of taxi trips for the next hour.</td>
+    <td>Pandas, sklearn, numpy, LightGBM, Matplotlib, StatsModels, CatBoost, Machine Learning</td>
   </tr>
   <tr>
     <td><a href="#">Auto-price-prediction</a></td>
