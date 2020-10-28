@@ -69,11 +69,9 @@ The model helped to optimize production in order not to launch a plant with unpr
     <td>Pandas, Numpy, SciPy, Matplotlib, Math</td>
   </tr>
      <tr>
-  <td><a href="#">EDA-of-apartments-for-sale</a></td>
-    <td>В вашем распоряжении данные сервиса Яндекс.Недвижимость — архив объявлений о продаже квартир в Санкт-Петербурге и соседних населённых пунктов за несколько лет. Нужно научиться определять рыночную стоимость объектов недвижимости. Ваша задача — установить параметры. Это позволит построить автоматизированную систему: она отследит аномалии и мошенническую деятельность.
-
-По каждой квартире на продажу доступны два вида данных. Первые вписаны пользователем, вторые — получены автоматически на основе картографических данных. Например, расстояние до центра, аэропорта, ближайшего парка и водоёма.</td>
-    <td>Pandas</td>
+  <td><a href="#">Real-estate-market-analysis</a></td>
+    <td>Using data from the Yandex.Realty service, i determined the market value of real estate objects and typical parameters of apartments.</td>
+    <td>Python, Pandas, Matplotlib, Exploratory Data Analysis, Data Visualization, Preprocessing Data, Math</td>
   </tr>
    <tr>
   <td><a href="#">Research-on-the-reliability-of-borrowers</a></td>
