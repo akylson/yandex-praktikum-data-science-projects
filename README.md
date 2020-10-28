@@ -1,3 +1,9 @@
+<style>
+  .markdown-body table td {
+    font-size: 12px !important;
+  }
+</style>
+
 <center><h1>Yandex.Praktikum Data Science Projects</h1></center>
 <a href="https://praktikum.yandex.ru/"><img width=100% src="https://akylson.com/wp-content/uploads/2020/10/69689792_116148766429470_3425023190613622784_o.png"></a><br><br>
 <p align=center>
@@ -6,7 +12,7 @@ Presented in the form of iPython Notebooks and readme markdown files. <br>
 For a more visually pleasant experience for browsing the portfolio, check out <a href="https://akylson.com">akylson.com</a><br>
 <br>
 </p><br>
-<font size="5">
+
 <table width=100% valign=top >
   <tr>
     <td>Project</td>
@@ -83,6 +89,6 @@ The model helped to optimize production in order not to launch a plant with unpr
     <td>Python, Pandas, Numpy</td>
   </tr>
 </table>
-  </font>
+  
 <br>
 <i> Please don't plagiarize any of my projects — it won't help you in the long run!<i>
