@@ -50,11 +50,9 @@ The model helped to optimize production in order not to launch a plant with unpr
     <td>Machine Learning, Pandas, Matplotlib, Seaborn, Numpy, Sklearn, Math</td>
   </tr>
   <tr>
-    <td><a href="#">Determination-of-a-profitable-plan-for-a-telecom-company</a></td>
-    <td>В вашем распоряжении данные о поведении клиентов, которые уже перешли на эти тарифы (из проекта курса «Статистический анализ данных»). Нужно построить модель для задачи классификации, которая выберет подходящий тариф. Предобработка данных не понадобится — вы её уже сделали.
-
-Постройте модель с максимально большим значением accuracy. Чтобы сдать проект успешно, нужно довести долю правильных ответов по крайней мере до 0.75. Проверьте accuracy на тестовой выборке самостоятельно.</td>
-    <td>Machine Learning</td>
+    <td><a href="#">Classifying-profitable-plan-for-a-telecom-company</a></td>
+    <td>Built the first Machine Learning model for the classification problem, which finds a suitable tariff</td>
+    <td>Machine Learning, Pandas, Numpy, Python, Seaborn</td>
   </tr>
   <tr>
   <td><a href="#">Patterns-that-determine-the-success-of-game-platforms.</a></td>
