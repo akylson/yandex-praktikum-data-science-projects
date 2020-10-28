@@ -53,9 +53,7 @@ These projects were completed during the training at Yandex.Practicum
     <td>Description</td>
     <td>Pandas</td>
   </tr>
-
-
-    <tr>
+  <tr>
     <td>Mobile Network analysis</td>
     <td>Description</td>
     <td>Pandas</td>
@@ -67,7 +65,8 @@ These projects were completed during the training at Yandex.Practicum
   </tr>
    <tr>
     <td>Bank analysis</td>
-    <td>Description</td>
+    <td>Заказчик — кредитный отдел банка. Нужно разобраться, влияет ли семейное положение и количество детей клиента на факт погашения кредита в срок. Входные данные от банка — статистика о платёжеспособности клиентов.
+Результаты исследования будут учтены при построении модели кредитного скоринга — специальной системы, которая оценивает способность потенциального заёмщика вернуть кредит банку.</td>
     <td>Pandas</td>
   </tr>
   <tr>
