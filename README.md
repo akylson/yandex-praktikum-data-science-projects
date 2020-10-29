@@ -11,9 +11,9 @@ For a more visually pleasant experience for browsing the portfolio, check out <a
 
 <table width=100% valign=top >
   <tr>
-    <td><sup>Project</sup></td>
+    <td width=20%>Project</td>
     <td>Description</td>
-    <td>Used libraries</td>
+    <td width=20%>Used libraries</td>
   </tr>
   <tr>
     <td><a href="https://github.com/akylson/yandex-praktikum-data-science-projects/tree/main/13-classifying-comments">Classifying comments</a></td>
