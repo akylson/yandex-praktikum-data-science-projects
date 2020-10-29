@@ -1,17 +1,16 @@
 # Car price prediction
 
 #### Task: 
-- Обучить модель для определения рыночной стоимости автомобиля.
+- Train the model to determine the market value of the car.
 
 #### Description:
-- Сервис по продаже автомобилей с пробегом разрабатывает приложение для привлечения новых клиентов. В нём можно быстро узнать рыночную стоимость своего автомобиля. 
-Проанализированы данные: технические характеристики, комплектации и цены автомобилей. Построена модель для определения стоимости автомобиля с пробегом. Использованы численные методы, приближённые вычисления, оценка сложности алгоритма, градиентный спуск.
+- Used car sales service is developing an application to attract new customers. In it, you can quickly find out the market value of your car. Analyzed the data: technical characteristics, configuration and prices of cars. A model has been built to determine the cost of a used car. Numerical methods, approximate calculations, algorithm complexity estimation, gradient descent were used.
 
-#### Сферы деятельности : 
-- Ритейл / E-commerce, Площадки объявлений, Интернет-магазины, Отраслевые компании / Индустрия / Промышленность, Услуги для бизнеса [b2b] (аутсорс консалтинг аудит), Стартапы, IT-компания
+#### Scope of Activities: 
+- Retail / E-commerce, Advertisements, Internet shops, Industry companies / Industry / Industry, Business services [b2b] (outsourcing consulting audit), Startups, IT-company
 
 #### Used Libraries:
-- Pandas, sklearn, numpy, LightGBM, машинное обучение, CatBoost
+- Pandas, sklearn, numpy, LightGBM, Machine Learning, CatBoost
 
 #### tags:
-- data science, machine learning, ML, Python, SQL, Git, Pandas, Numpy, Matplotlib, seaborn, Sklearn, Tableau, Spark, Hadoop, R, sci-py, Research, Kaggle, Algorithms, PyTorch, TensorFlow, CatBoost, xgboost, lgbm, light gmb, Support vector machines, градиентный бустинг, нелинейная оптимизация, кластеризация, random forest, descision trees,  regression,  Reinforcement Learning, OpenCV, PIL
+- data science, machine learning, ML, Python, SQL, Git, Pandas, Numpy, Matplotlib, seaborn, Sklearn, Tableau, Spark, Hadoop, R, sci-py, Research, Kaggle, Algorithms, PyTorch, TensorFlow, CatBoost, xgboost, lgbm, light gmb, Support vector machines, gradient boosting, nonlinear optimization, clustering, random forest, descision trees, regression, Reinforcement Learning, OpenCV, PIL
