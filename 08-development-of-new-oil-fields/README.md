@@ -1,16 +1,16 @@
 # Development of new oil fields
 
 #### Task: 
-- Решить в каком регионе добывать нефть. Построить модель машинного обучения, которая поможет определить регион, где добыча принесет наибольшую прибыль с наименьшим риском убытков.
+- Decide in which region to extract oil. Build a machine learning model that will help determine the region where mining will bring the most profit with the least risk of loss.
 
 #### Description:
-- Добывающей компании «ГлавРосГосНефть» нужно решить, где бурить новую скважину. Собраны характеристики пробы нефти для скважин: качество нефти и объём её запасов по трем регионам. Характеристики для каждой скважины в регионе уже известны. Построена модель для предсказания объёма запасов в новых скважинах. Выбраны скважины с самыми высокими оценками значений. Определены регионы с максимальной суммарной прибылью отобранных скважин. Построена модель для определения региона, где добыча принесёт наибольшую прибыль. Проанализирована возможная прибыль и риски техникой Bootstrap.
+- The production company GlavRosGosNeft needs to decide where to drill a new well. Collected characteristics of oil sample for wells: oil quality and volume of its reserves in three regions. The characteristics for each well in the region are already known. A model has been built to predict the volume of reserves in new wells. Wells with the highest estimated values were selected. The regions with the maximum total profit of the selected wells have been identified. A model has been built to determine the region where production will bring the greatest profit. Potential profits and risks were analyzed using Bootstrap technique.
 
-#### Сферы деятельности : 
-- Услуги для бизнеса [b2b] (аутсорс консалтинг аудит), IT-компания, Стартапы, Отраслевые компании / Индустрия / Производство
+#### Scope of Activities: 
+- Services for business [b2b] (outsourcing consulting audit), IT company, Startups, Industry companies / Industry / Manufacturing
 
 #### Used Libraries:
-- Pandas, sklearn, math, numpy, Seaborn, Matplotlib, SciPy, Bootstrap, машинное обучение
+- Pandas, sklearn, math, numpy, Seaborn, Matplotlib, SciPy, Bootstrap, Machine Learning
 
 #### tags:
-- A/B-тестирование, Bootstrap, data science, machine learning, ML, Python, SQL, Git, Pandas, Numpy, Matplotlib, seaborn, Sklearn, Tableau, Spark, Hadoop, R, sci-py, Research, Kaggle, Algorithms, PyTorch, TensorFlow, CatBoost, xgboost,  Support vector machines, градиентный бустинг, нелинейная оптимизация, кластеризация, random forest, descision trees,  regression,  Reinforcement Learning, OpenCV, PIL
+- A / B testing, Bootstrap, data science, machine learning, ML, Python, SQL, Git, Pandas, Numpy, Matplotlib, seaborn, Sklearn, Tableau, Spark, Hadoop, R, sci-py, Research, Kaggle, Algorithms, PyTorch, TensorFlow, CatBoost, xgboost, Support vector machines, gradient boosting, nonlinear optimization, clustering, random forest, descision trees, regression, Reinforcement Learning, OpenCV, PIL
