@@ -1,16 +1,16 @@
 # Real Estate Market Analysis
 
 #### Task: 
-- Используя данные сервиса Яндекс.Недвижимость, определить рыночную стоимость объектов недвижимости и типичные параметры квартир
+- Using the data of the Yandex.Real estate service, determine the market value of real estate objects and typical parameters of apartments
 
 #### Description:
-- Проведен исследовательский анализ и предобработка данных для датасета с объявлениями о продаже квартир в Санкт-Петербурге. Выявлены, влияние площади, потолков, количества комнат, даты объявления на цены квартир всех представленных населённых пунктов и центра Санкт-Петербурга для построения автоматизированной системы определения цен во избежание мошенничества и аномалий. На основе данных сервиса Яндекс.Недвижимость определена рыночная стоимость объектов недвижимости разного типа, типичные параметры квартир, в зависимости от удаленности от центра. Проведена предобработка данных. Добавлены новые данные. Построены гистограммы, боксплоты, диаграммы рассеивания.
+- Research analysis and data preprocessing for a dataset with advertisements for the sale of apartments in St. Petersburg has been carried out. The influence of the area, ceilings, the number of rooms, the date of announcement on the prices of apartments in all the presented settlements and the center of St. Petersburg for the construction of an automated system for determining prices in order to avoid fraud and anomalies were revealed. Based on data from the Yandex.Real estate service, the market value of various types of real estate, typical parameters of apartments, depending on the distance from the center, was determined. Data preprocessing has been done. Added new data. Constructed histograms, boxplots, scatter diagrams.
 
-#### Сферы деятельности : 
-- Интернет-сервисы, Площадки объявлений, Услуги для бизнеса [b2b] (аутсорс консалтинг аудит), Стартапы, IT-компания 
+#### Scope of Activities: 
+- Internet services, Advertising platforms, Services for business [b2b] (outsourcing consulting audit), Startups, IT company
 
 #### Used Libraries:
-- Python, Pandas, Matplotlib, исследовательский анализ данных, визуализация данных, предобработка данных, math
+- Python, Pandas, Matplotlib, exploratory data analysis, data visualization, data preprocessing, math
 
 #### tags:
-- обработка данных, histogram, boxplot, scattermatrix, категоризация, scatterplot, маркетинговый аналитик, фрод аналитик, fraud analyst, data analyst, аналитик данных, аналитик, analyst, фрод-мониторинг
+- data processing, histogram, boxplot, scattermatrix, categorization, scatterplot, marketing analyst, fraud analyst, fraud analyst, data analyst, data analyst, analyst, analyst, fraud monitoring
