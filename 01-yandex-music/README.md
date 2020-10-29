@@ -1,16 +1,16 @@
 # Yandex Music Project
 
 #### Task: 
-- Определить как меняются предпочтения слушателей Яндекс.Музыки в зависимости от дня недели.
+- Determine how the preferences of Yandex.Music listeners change depending on the day of the week.
 
 #### Description:
-- Яндекс.Музыка — это крупный продукт с огромным запасом данных для исследований. Проанализирован режим прослушивания жителями Москвы и Петербурга. Исследована разница между музыкой, которая звучит по дороге на работу в понедельник утром, от той, что играет в среду или в конце рабочей недели.
+- Yandex.Music is a large product with a huge amount of data for research. The mode of listening by residents of Moscow and St. Petersburg is analyzed. Investigated the difference between music played on the way to work on Monday morning versus music played on Wednesday or at the end of the work week.
 
 #### Сферы деятельности : 
-- Площадки объявлений, Интернет-сервисы, Интернет-магазины, Digital-агенства / Маркетинг / PR / SEO, Стартапы, IT-компания, Услуги для бизнеса [b2b] 
+- Advertising platforms, Internet services, Internet shops, Digital-agencies / Marketing / PR / SEO, Startups, IT-company, Business services [b2b]
 
 #### Used Libraries:
 - Pandas
 
 #### tags:
-- data science, machine learning, ML, Python, SQL, Git, Pandas, Numpy, Matplotlib, seaborn, Sklearn, Tableau, Spark, Hadoop, R, sci-py, Research, Kaggle, Algorithms, PyTorch, TensorFlow, CatBoost, xgboost, Support vector machines,  градиентный бустинг, нелинейная оптимизация, кластеризация, random forest, descision trees,  regression,  Reinforcement Learning, OpenCV, PIL
+- data science, machine learning, ML, Python, SQL, Git, Pandas, Numpy, Matplotlib, seaborn, Sklearn, Tableau, Spark, Hadoop, R, sci-py, Research, Kaggle, Algorithms, PyTorch, TensorFlow, CatBoost, xgboost, Support vector machines,  Gradient Boosting, nonlinear optimization, clustering, random forest, descision trees,  regression,  Reinforcement Learning, OpenCV, PIL
