@@ -1,16 +1,16 @@
 # Bank Churn Prediction
 
 #### Task: 
-- Анализ оттока клиентов из банка для выбор стратегии (удержание старых клиентов или привлечение новых клиентов).
+- Analysis of the outflow of clients from the bank to select a strategy (retaining old clients or attracting new clients)
 
 #### Description:
-- Из банка стали уходить клиенты каждый месяц. Спрогнозирована вероятность ухода клиента из банка в ближайшее время. Построена модель с предельно большим значением F1-меры с последующей проверкой на тестовой выборке. Доведена метрика до 0.62. Дополнительно измерен AUC-ROC, соотнесен с F1-мерой. Обучение с учителем. Работа с несбалансированными данными.
+- Clients started leaving the bank every month. The probability of the client leaving the bank in the near future was predicted. A model with an extremely large value of the F1-measure was built with subsequent verification on a test sample. The metric has been brought to 0.62. Additionally measured AUC-ROC, correlated with F1-measure. Learning with a teacher. Dealing with unbalanced data.
 
-#### Сферы деятельности : 
-- Digital-агенства / Маркетинг / PR / SEO, Интернет-магазины, Интернет-сервисы, Банковский сектор / ФинТех, Услуги для бизнеса [b2b] (аутсорс консалтинг аудит), IT-компания, Стартапы
+#### Scope of Activities: 
+- Digital-agencies / Marketing / PR / SEO, Internet shops, Internet services, Banking sector / FinTech, Business services [b2b] (outsourcing consulting audit), IT company, Startups
 
 #### Used Libraries:
-- Pandas, Matplotlib, Seaborn, numpy, sklearn, math, машинное обучение
+- Pandas, Matplotlib, Seaborn, numpy, sklearn, math, Machine Learning
 
 #### tags:
-- data science, machine learning, ML, Python, SQL, Git, Pandas, Numpy, Matplotlib, seaborn, Sklearn, Tableau, Spark, Hadoop, R, sci-py, Research, Kaggle, Algorithms, PyTorch, TensorFlow, CatBoost, xgboost, Support vector machines, градиентный бустинг, нелинейная оптимизация, кластеризация, random forest, descision trees,  regression,  Reinforcement Learning, OpenCV, PIL
+- data science, machine learning, ML, Python, SQL, Git, Pandas, Numpy, Matplotlib, seaborn, Sklearn, Tableau, Spark, Hadoop, R, sci-py, Research, Kaggle, Algorithms, PyTorch, TensorFlow, CatBoost, xgboost, Support vector machines, gradient boosting, nonlinear optimization, clustering, random forest, descision trees, regression, Reinforcement Learning, OpenCV, PIL
