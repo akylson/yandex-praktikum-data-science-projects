@@ -1,20 +1,15 @@
 # Research on the reliability of borrowers
 
 
-#### Задача: 
-- На основе статистики о платёжеспособности клиентов исследовать влияет ли семейное положение и количество детей клиента на факт возврата кредита в срок
+#### Task: 
+- Based on statistics on the solvency of clients, investigate whether the marital status and the number of the client's children affect the fact of the loan repayment on time
 
-#### Описание:
-- Входные данные от кредитного отдела банка  — статистика о платёжеспособности клиентов. <br>
-Очищены данные от выбросов, пропусков и дубликатов, а также преобразованы разные форматы данных. <br>
-Заменены типы данных на соответствующие хранящимся данным. Удалены дубликаты. <br>
-Выделены леммы в значениях столбца и категоризированны данные. Определена доля кредитоспособных клиентов. <br>
-Проанализировано влияние семейного положения и количества детей клиента на факт возврата кредита в срок. <br>
-Построена модель кредитного скоринга — специальной системы, которая оценивает способность потенциального заёмщика вернуть кредит банку.
+#### Description:
+-  Input data from the credit department of the bank - statistics on the solvency of clients. The data was cleaned from outliers, omissions and duplicates, and various data formats were converted. Replaced data types with those corresponding to the stored data. Removed duplicates. Highlighted lemmas in column values ​​and categorized data. The share of creditworthy clients was determined. The influence of marital status and the number of the client's children on the fact of loan repayment on time has been analyzed A model of credit scoring is built - a special system that assesses the ability of a potential borrower to repay a loan to a bank.
 
-#### Сферы деятельности: 
-- Банковский сектор / ФинТех, Стартапы, IT-компания, Услуги для бизнеса [b2b] 
+#### Scope of activities: 
+- Banking / FinTech, Startups, IT company, Business services [b2b] 
 #### Used libraries:
-- Предобработка данных, Python, Pandas, PyMystem3, Лемматизация, SciPy, Matplotlib, Seaborn, SciKitLearn, numpy
+- Data preprocessing, Python, Pandas, PyMystem3, Lemmatization, SciPy, Matplotlib, Seaborn, SciKitLearn, numpy
 #### tags:
-- обработка данных, дубликаты, пропуски, категоризация, лемматизация, data analyst, аналитик данных, аналитик, финансовый аналитик, analyst
+- data processing, duplicates, omissions, categorization, lemmatization, data analyst, data analyst, analyst, financial analyst, analyst
