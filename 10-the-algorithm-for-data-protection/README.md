@@ -1,17 +1,17 @@
 # The Algorithm for data protection
 
 #### Task: 
-- Методом преобразования данных защитить личную информацию клиентов страховой компании. 
+- The method of data transformation to protect the personal information of the clients of the insurance company.. 
 
 #### Description:
-- Для защиты данных клиентов страховой компании разработаны методы преобразования данных, чтобы по ним было сложно восстановить персональную информацию. 
-Была проведена предобработка данных. Произведена проверка работы алгоритма модели линейной регрессии при перемножении на обратимую матрицу. Произведена проверка влияния перемножения на обратимую матрицу, а затем перемножения на обратную матрицу обратимой. Произведена проверка метрики R2 Линейной регрессии на идентичных данных - сначала исходных, затем умноженных на обратимую матрицу, размер которой равен числу признаков. Метрики полностью совпали. Можно сделать вывод, что алгоритм работает.
+- To protect the data of clients of the insurance company, data conversion methods have been developed so that it would be difficult to recover personal information from them.
+Data preprocessing was carried out. The operation of the algorithm of the linear regression model when multiplied by an invertible matrix is checked. The effect of multiplication on an invertible matrix and then multiplication on an inverse invertible matrix is checked. The R2 metric of the Linear Regression was checked on identical data - first the original data, then multiplied by an invertible matrix, the size of which is equal to the number of features. The metrics are completely the same. It can be concluded that the algorithm works.
 
-#### Сферы деятельности : 
-- Страховая сфера, Информационная безопасность, Услуги для бизнеса [b2b] (аутсорс консалтинг аудит), IT-компания, Стартапы
+#### Scope of Activities : 
+- Insurance industry, Information security, Services for business [b2b] (outsourcing consulting audit), IT company, Startups
 
 #### Used Libraries:
-- Pandas, Seaborn, numpy, sklearn, машинное обучение
+- Pandas, Seaborn, numpy, sklearn, Machine Learning
 
 #### tags:
-- data science, machine learning, ML, Python, SQL, Git, Pandas, Numpy, Matplotlib, seaborn, Sklearn, Tableau, Spark, Hadoop, R, sci-py, Research, Kaggle, Algorithms, PyTorch, TensorFlow, CatBoost, xgboost, Support vector machines, градиентный бустинг, нелинейная оптимизация, кластеризация, random forest, descision trees,  regression,  Reinforcement Learning, OpenCV, PIL
+- data science, machine learning, ML, Python, SQL, Git, Pandas, Numpy, Matplotlib, seaborn, Sklearn, Tableau, Spark, Hadoop, R, sci-py, Research, Kaggle, Algorithms, PyTorch, TensorFlow, CatBoost, xgboost, Support vector machines, gradient boosting, nonlinear optimization, clustering, random forest, descision trees, regression, Reinforcement Learning, OpenCV, PIL
