@@ -4,14 +4,13 @@
 - Build Machine Learning model for the classification problem, which finds a suitable tariff
 
 #### Description:
-- Оператор мобильной связи выяснил: многие клиенты пользуются архивными тарифами. Проведен предварительный анализ использования тарифов на выборке клиентов, проанализировано поведение клиентов при использовании услуг оператора и рекомендованы оптимальные наборы услуг для пользователей.Проверены гипотезы о различии выручки абонентов разных тарифов и
-различии выручки абонентов из Москвы и других регионов. Определен выгодный тарифный план для корректировки рекламного бюджета. Разработана система, способная проанализировать поведение клиентов и предложить пользователям новый тариф. Построена модель для задачи классификации, которая выберет подходящий тариф. Построена модель с максимально большим значением accuracy. Доля правильных ответов доведена до 0.75. Проверены accuracy на тестовой выборке.
+- The mobile operator found out: many customers use archived rates. A preliminary analysis of the use of tariffs on a sample of customers was carried out, the behavior of customers when using the operator's services was analyzed and the optimal sets of services for users were recommended. Hypotheses about the difference in revenue of subscribers of different tariffs and differences in the revenue of subscribers from Moscow and other regions. A profitable tariff plan has been identified for adjusting the advertising budget. A system has been developed that can analyze customer behavior and offer users a new tariff. A model has been built for the classification problem, which will select a suitable tariff. A model was built with the highest possible accuracy. The share of correct answers has been brought to 0.75. Accuracy was checked on the test sample.
 
-#### Сферы деятельности : 
-- Телеком, Площадки объявлений, IT-компания, Стартапы, Услуги для бизнеса [b2b] 
+#### Scope of Activities: 
+- Telecom, Advertising platforms, IT company, Startups, Business services [b2b]
 
 #### Used Libraries:
-- Python, Pandas, Matplotlib, numpy, SciPy, описательная статистика, проверка статистических гипотез, math, Seaborn, sklearn, машинное обучение
+- Python, Pandas, Matplotlib, numpy, SciPy, descriptive statistics, statistical hypothesis testing, math, Seaborn, sklearn, machine learning
 
 #### tags:
-- обработка данных, histogram, boxplot, статистический тест, критерий Стьюдента, аналитик, analyst, аналитик данных, data analyst, Scikit-Learn
+- data processing, histogram, boxplot, statistical test, Student's test, analyst, analyst, data analyst, data analyst, Scikit-Learn
