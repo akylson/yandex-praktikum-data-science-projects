@@ -1,16 +1,16 @@
 # Classifying comments
 
 #### Task: 
-- Ускорить модерацию комментариев в сообществе, автоматизировав оценку их токсичности. Обучить модель классифицировать комментарии на позитивные и негативные.
+- Speed up the moderation of comments in the community by automating their toxicity assessment. Train the model to classify comments as positive and negative.
 
 #### Description:
-- Для запуска нового сервиса интернет-магазину нужен инструмент, который будет искать токсичные комментарии и отправлять их на модерацию. Пользователи могут редактировать и дополнять описания товаров, как в вики-сообществах. То есть клиенты предлагают свои правки и комментируют изменения других.  Обучена модель классифицировать комментарии на позитивные и негативные. Проанализирован набор данных с разметкой о токсичности правок. Построена модель со значением метрики качества F1 не меньше 0.75. К текстам и временным рядам применена техника feature engineering. Векторизированы тексты посредством word2vec, GloVe, FastText.
+- To launch a new service, an online store needs a tool that will search for toxic comments and send them for moderation. Users can edit and add product descriptions, just like in community wikis. That is, clients suggest their edits and comment on others' changes. The model was trained to classify comments into positive and negative. Analyzed a dataset with markup on the toxicity of edits. A model with a quality metric F1 of at least 0.75 was built. Feature engineering is applied to texts and time series. Texts are vectorized using word2vec, GloVe, FastText.
 
-#### Сферы деятельности : 
-- Digital-агенства / Маркетинг / PR / SEO, Площадки объявлений, Интернет-сервисы, Интернет-магазины, Услуги для бизнеса [b2b] (аутсорс консалтинг аудит), Стартапы, IT-компания
+#### Scope of Activities: 
+- Digital Agencies / Marketing / PR / SEO, Ads Platforms, Internet Services, Online Stores, Business Services [b2b] (outsourcing consulting audit), Startups, IT Company
 
 #### Used Libraries:
-- Pandas, sklearn, numpy, NLTK, LightGBM, CatBoost, машинное обучение
+- Pandas, sklearn, numpy, NLTK, LightGBM, CatBoost, Machine Learning
 
 #### tags:
-- feature engineering, word2vec, GloVe, FastText, data science, machine learning, ML, Python, SQL, Git, Pandas, Numpy, Matplotlib, seaborn, Sklearn, Tableau, Spark, Hadoop, R, sci-py, Research, Kaggle, Algorithms, PyTorch, TensorFlow, CatBoost, xgboost, lgbm, light gmb, Support vector machines, градиентный бустинг, нелинейная оптимизация, кластеризация, random forest, descision trees,  regression,  Reinforcement Learning,  OpenCV, PIL
+- feature engineering, word2vec, GloVe, FastText, data science, machine learning, ML, Python, SQL, Git, Pandas, Numpy, Matplotlib, seaborn, Sklearn, Tableau, Spark, Hadoop, R, sci-py, Research, Kaggle, Algorithms , PyTorch, TensorFlow, CatBoost, xgboost, lgbm, light gmb, Support vector machines, gradient boosting, nonlinear optimization, clustering, random forest, descision trees, regression, Reinforcement Learning, OpenCV, PIL
