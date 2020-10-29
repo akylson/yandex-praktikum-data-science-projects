@@ -11,7 +11,7 @@ For a more visually pleasant experience for browsing the portfolio, check out <a
 
 <table width=100% valign=top >
   <tr>
-    <td>Project</td>
+    <td><sup>Project</sup></td>
     <td>Description</td>
     <td>Used libraries</td>
   </tr>
