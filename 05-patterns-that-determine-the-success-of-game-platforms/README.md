@@ -1,16 +1,16 @@
 # Patterns that determine the success of game platforms
 
 #### Task: 
-- Используя исторические данные о продажах компьютерных игр, оценки пользователей и экспертов, жанры и платформы, выявить закономерности, определяющие успешность игры 
+- Using historical data on sales of computer games, user and expert ratings, genres and platforms, identify patterns that determine the success of a game
 
 #### Description:
-- Интернет-магазин продаёт по всему миру компьютерные игры. Из открытых источников доступны исторические данные о продажах игр, оценки пользователей и экспертов, жанры и платформы. Выявлены параметры, определяющие успешность игры в разных регионах мира. Выявлен потенциально популярный продукт и спланированы рекламные кампании. Выбран актуальный период для анализа. Составлены портреты пользователей каждого региона. Проверены гипотезы: средние пользовательские рейтинги платформ Xbox One и PC одинаковые; средние пользовательские рейтинги жанров Action и Sports разные. При анализе использовались критерий Стьюдента для независимых выборок
+- The online store sells computer games all over the world. Historical data on game sales, user and expert ratings, genres and platforms are available from open sources. The parameters that determine the success of the game in different regions of the world are revealed. Potentially popular product identified and advertising campaigns planned. The current period for analysis has been selected. Portraits of users of each region were compiled. Hypotheses tested: average user ratings for Xbox One and PC platforms are the same; the average user ratings for the Action and Sports genres are different. The analysis used Student's t test for independent samples
 
-#### Сферы деятельности : 
-- Gamedev, Интернет-магазины, Digital-агенства / Маркетинг / PR / SEO, Услуги для бизнеса [b2b] (аутсорс консалтинг аудит), Стартапы, IT-компания
+#### Scope of Activities: 
+- Gamedev, Online Stores, Digital Agencies / Marketing / PR / SEO, Business Services [b2b] (outsourcing consulting audit), Startups, IT Company
 
 #### Used Libraries:
-- Python, Pandas, numpy, Matplotlib, предобработка данных, исследовательский анализ данных, описательная статистика, проверка статистических гипотез, Seaborn, SciPy
+- Python, Pandas, numpy, Matplotlib, data preprocessing, exploratory data analysis, descriptive statistics, statistical hypothesis testing, Seaborn, SciPy
 
 #### tags:
-- обработка данных, histogram, boxplot, статистический тест, критерий Стьюдента, piechart, игровой аналитик, game analyst, аналитик игрового проекта, продуктовый аналитик, product analyst, gamedev analyst, аналитик геймдев
+- data processing, histogram, boxplot, statistical test, Student's test, piechart, game analyst, game analyst, game project analyst, product analyst, product analyst, gamedev analyst, gamedev analyst
