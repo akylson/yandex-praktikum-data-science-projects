@@ -1,0 +1,3 @@
+messages_included,mb_per_month_included,minutes_included,rub_monthly_fee,rub_per_gb,rub_per_message,rub_per_minute,tariff_name
+50,15360,500,550,200,3,3,smart
+1000,30720,3000,1950,150,1,1,ultra
