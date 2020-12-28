@@ -1,16 +1,20 @@
-# Real Estate Market Analysis
+# Data Research of airline company
 
 #### Task: 
-- Using the data of the Yandex.Real estate service, determine the market value of real estate objects and typical parameters of apartments
+- Perform uploads and preparation of airline data using SQL, test the hypothesis about the difference in average demand for tickets during different events
 
 #### Description:
-- Research analysis and data preprocessing for a dataset with advertisements for the sale of apartments in St. Petersburg has been carried out. The influence of the area, ceilings, the number of rooms, the date of announcement on the prices of apartments in all the presented settlements and the center of St. Petersburg for the construction of an automated system for determining prices in order to avoid fraud and anomalies were revealed. Based on data from the Yandex.Real estate service, the market value of various types of real estate, typical parameters of apartments, depending on the distance from the center, was determined. Data preprocessing has been done. Added new data. Constructed histograms, boxplots, scatter diagrams.
+- It is important for a Russian airline that performs domestic passenger transportation to understand the preferences of users who buy tickets to different destinations.
+The data were extracted by SQL language queries and PySpark library methods.
+The database was studied and passenger demand for flights to cities where major cultural festivals are held was analyzed.
+The hypothesis of the difference in the average demand for tickets during
+various festivals and at normal times.
 
 #### Scope of Activities: 
-- Internet services, Advertising platforms, Services for business [b2b] (outsourcing consulting audit), Startups, IT company
+- Airlines, Tourism, Business services [b2b] (outsourcing consulting audit), Startups, IT-company
 
 #### Used Libraries:
-- Python, Pandas, Matplotlib, exploratory data analysis, data visualization, data preprocessing, math
+- SQL, Python, Pandas, Matplotlib, SciPy, Statistical hypothesis testing
 
 #### tags:
-- data processing, histogram, boxplot, scattermatrix, categorization, scatterplot, marketing analyst, fraud analyst, fraud analyst, data analyst, data analyst, analyst, analyst, fraud monitoring
+- data processing, statistical test, Student's t-test, barplot, data parsing, sql analyst, sql analyst, analyst, reporting analyst, SQL, PySpark, relational databases, distributed storage
