@@ -15,6 +15,11 @@ For a more visually pleasant experience for browsing the portfolio, check out <a
     <td>Description</td>
     <td width=20%>Used libraries</td>
   </tr>
+    <tr>
+    <td><a href="https://github.com/akylson/yandex-praktikum-data-science-projects/tree/main/14-data_research_of_airline_company">Data Research of airline company</a></td>
+    <td>Perform uploads and preparation of airline data using SQL, test the hypothesis about the difference in average demand for tickets during different events</td>
+    <td>SQL, Python, Pandas, Matplotlib, SciPy, Statistical hypothesis testing</td>
+  </tr>
   <tr>
     <td><a href="https://github.com/akylson/yandex-praktikum-data-science-projects/tree/main/13-classifying-comments">Classifying comments</a></td>
     <td>Speeded up the moderation of comments by automating their toxicity assessment. Trained the model to classify comments as toxic and non-toxic.</td>
