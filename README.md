@@ -15,6 +15,11 @@ For a more visually pleasant experience for browsing the portfolio, check out <a
     <td>Description</td>
     <td width=20%>Used libraries</td>
   </tr>
+        <tr>
+    <td><a href="https://github.com/akylson/yandex-praktikum-data-science-projects/tree/main/16-steel_temperature">Steel temperature</a></td>
+    <td>In order to optimize production costs, the steelworks of So Hardening Steel Ltd. decided to reduce the electricity consumption during the steel processing phase. You will have to build a model that predicts the temperature of the steel.</td>
+    <td>Python, Pandas, Matplotlib, Seaborn, exploratory data analysis, data visualization, data preprocessing, math, machine learning, gradient boosting, numpy</td>
+  </tr>
       <tr>
     <td><a href="https://github.com/akylson/yandex-praktikum-data-science-projects/tree/main/15-age_recognition_by_photo">Age recognition by photo</a></td>
     <td>Build a machine learning model that determines the approximate age of a person from a photo. There is a set of photos of people with an indication of their age.</td>
