@@ -15,6 +15,11 @@ For a more visually pleasant experience for browsing the portfolio, check out <a
     <td>Description</td>
     <td width=20%>Used libraries</td>
   </tr>
+      <tr>
+    <td><a href="https://github.com/akylson/yandex-praktikum-data-science-projects/tree/main/15-age_recognition_by_photo">Age recognition by photo</a></td>
+    <td>Build a machine learning model that determines the approximate age of a person from a photo. There is a set of photos of people with an indication of their age.</td>
+    <td>Pandas, keras, Matplotlib, Seaborn, Computer Vision, Machine Learning</td>
+  </tr>
     <tr>
     <td><a href="https://github.com/akylson/yandex-praktikum-data-science-projects/tree/main/14-data_research_of_airline_company">Data Research of airline company</a></td>
     <td>Perform uploads and preparation of airline data using SQL, test the hypothesis about the difference in average demand for tickets during different events</td>
