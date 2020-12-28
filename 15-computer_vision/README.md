@@ -1,16 +1,21 @@
-# Real Estate Market Analysis
+# Age recognition by photo
 
 #### Task: 
-- Using the data of the Yandex.Real estate service, determine the market value of real estate objects and typical parameters of apartments
+- Build a machine learning model that determines the approximate age of a person from a photo. There is a set of photos of people with an indication of their age.
 
 #### Description:
-- Research analysis and data preprocessing for a dataset with advertisements for the sale of apartments in St. Petersburg has been carried out. The influence of the area, ceilings, the number of rooms, the date of announcement on the prices of apartments in all the presented settlements and the center of St. Petersburg for the construction of an automated system for determining prices in order to avoid fraud and anomalies were revealed. Based on data from the Yandex.Real estate service, the market value of various types of real estate, typical parameters of apartments, depending on the distance from the center, was determined. Data preprocessing has been done. Added new data. Constructed histograms, boxplots, scatter diagrams.
+- A supermarket is implementing a computer vision system to process customer photos. Photo-fixing in the checkout area will help determine the age of customers in order to:
+  - Analyze purchases and offer products that may be of interest to shoppers of that age group;
+  - Control the integrity of cashiers when selling alcohol.
+
+A model was built that will determine the approximate age of a person from a photo. 
+Analyzed a set of photos of people with an indication of age using computer vision using off-the-shelf neural networks and the Keras library.
 
 #### Scope of Activities: 
-- Internet services, Advertising platforms, Services for business [b2b] (outsourcing consulting audit), Startups, IT company
+- Research Departments / R&D Centers / Institutes / Science City Residents / Information Security / Retail / E-commerce / Startups / IT Company / Business Services [b2b]
 
 #### Used Libraries:
-- Python, Pandas, Matplotlib, exploratory data analysis, data visualization, data preprocessing, math
+- Pandas, keras, Matplotlib, Seaborn, Computer Vision, Machine Learning
 
 #### tags:
-- data processing, histogram, boxplot, scattermatrix, categorization, scatterplot, marketing analyst, fraud analyst, fraud analyst, data analyst, data analyst, analyst, analyst, fraud monitoring
+- Computer Vision,  Video Analysis, Image, video enhancement (HDR, trailing smear, Image distortion and so on). Stereo Vision and Binocular Calibration. Face/body/vehicle attribute and feature recognition (structured and semi-structured), object detection, Re-ID, Face verification and identification, landmarks, identification tracking algorithm, 3D reconstruction, Structure-from-motion, Image filtration. Augmented reality, Virtual reality, Image retrieval, data science, machine learning, ML, Python, SQL, Git, Pandas, Numpy, Matplotlib, seaborn, Sklearn, Keras, Tableau, Spark, Hadoop, R, sci-py, Research, Kaggle, Algorithms, PyTorch, TensorFlow, CatBoost, RNN, SVN, NLP, DNN, Deep Learning, xgboost, Support vector machines, reccurent neural networks, neural networks, градиентный бустинг, нелинейная оптимизация, кластеризация, random forest, descision trees,  regression,  Reinforcement Learning, neural networks, artificial intelligence, OpenCV, PIL
