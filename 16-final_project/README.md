@@ -1,16 +1,23 @@
-# Real Estate Market Analysis
+# Steel temperature
 
 #### Task: 
-- Using the data of the Yandex.Real estate service, determine the market value of real estate objects and typical parameters of apartments
+- In order to optimize production costs, the steelworks of So Hardening Steel Ltd. decided to reduce the electricity consumption during the steel processing phase. You will have to build a model that predicts the temperature of the steel.
 
 #### Description:
-- Research analysis and data preprocessing for a dataset with advertisements for the sale of apartments in St. Petersburg has been carried out. The influence of the area, ceilings, the number of rooms, the date of announcement on the prices of apartments in all the presented settlements and the center of St. Petersburg for the construction of an automated system for determining prices in order to avoid fraud and anomalies were revealed. Based on data from the Yandex.Real estate service, the market value of various types of real estate, typical parameters of apartments, depending on the distance from the center, was determined. Data preprocessing has been done. Added new data. Constructed histograms, boxplots, scatter diagrams.
+- Steel is processed in a metal ladle with a capacity of about 100 tons. To withstand the high temperatures, the ladle is lined with refractory bricks on the inside. Molten steel is poured into the ladle and heated to the desired temperature with graphite electrodes. These are installed in the ladle lid. 
+
+Sulfur is removed from the alloy (desulfurization), the chemical composition is corrected by adding impurities and samples are taken. The steel is alloyed - its composition is changed - by feeding pieces of alloy from the bulk material bin or wire through a special tribe (tribe, "mass").
+
+Before the alloying additives are introduced for the first time, the temperature of the steel is measured and a chemical analysis is made. Then the temperature is raised for a few minutes, the alloying materials are added and the alloy is purged with inert gas. It is then stirred and measured again. This cycle is repeated until the target chemical composition and optimum melting temperature are achieved.
+
+Then the molten steel is sent for metal finishing or to the continuous casting machine. From there, the finished product comes out in the form of slab billets (*slab*, "slab").
+
 
 #### Scope of Activities: 
-- Internet services, Advertising platforms, Services for business [b2b] (outsourcing consulting audit), Startups, IT company
+- ndustry companies / Industry / Industry, Services for business [b2b] (outsourcing consulting audit), IT-company, Startups, Services for business [b2b] (outsourcing consulting audit), IT company, Startups, Industry companies / Industry / Manufacturing
 
 #### Used Libraries:
-- Python, Pandas, Matplotlib, exploratory data analysis, data visualization, data preprocessing, math
+- Python, Pandas, Matplotlib, Seaborn, exploratory data analysis, data visualization, data preprocessing, math, machine learning, gradient boosting, numpy, 
 
 #### tags:
-- data processing, histogram, boxplot, scattermatrix, categorization, scatterplot, marketing analyst, fraud analyst, fraud analyst, data analyst, data analyst, analyst, analyst, fraud monitoring
+- data science, machine learning, ML, Python, SQL, Git, Pandas, Numpy, Matplotlib, seaborn, Sklearn, Tableau, Spark, Hadoop, R, sci-py, Research, Kaggle, Algorithms, PyTorch, TensorFlow, CatBoost, xgboost, Support vector machines, gradient boosting, nonlinear optimization, clustering, random forest, descision trees, regression, Reinforcement Learning, OpenCV, PIL, A / B testing, Bootstrap, data science, machine learning, ML, Python, SQL, Git, Pandas, Numpy, Matplotlib, seaborn, Sklearn, Tableau, Spark, Hadoop, R, sci-py, Research, Kaggle, Algorithms, PyTorch, TensorFlow, CatBoost, xgboost, Support vector machines, gradient boosting, nonlinear optimization, clustering, random forest, descision trees, regression, Reinforcement Learning, OpenCV, PIL
