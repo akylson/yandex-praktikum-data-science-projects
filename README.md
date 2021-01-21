@@ -7,7 +7,8 @@ Repository containing portfolio of data science projects completed by me during 
 Presented in the form of iPython Notebooks and readme markdown files. <br>
 For a more visually pleasant experience for browsing the portfolio, check out <a href="https://akylson.com">akylson.com</a><br>
 <br>
-  <a href="https://github.com/akylson/yandex-praktikum-data-science-projects/blob/main/yandex_ds_certificate_en.pdf"><b>Certificate of completion the course</b></a>
+  <a href="https://github.com/akylson/yandex-praktikum-data-science-projects/blob/main/yandex_ds_certificate_en.pdf"><b>Certificate of completion the course (English version)</b></a><br>
+    <a href="https://github.com/akylson/yandex-praktikum-data-science-projects/blob/main/yandex_ds_ru.pdf"><b>Certificate of completion the course (Russian version)</b></a>
 </p><br>
 
 <table width=100% valign=top >
